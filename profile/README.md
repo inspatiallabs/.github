@@ -32,7 +32,7 @@ _Reality is your canvas_
 [![InSpatial Kit](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/ai-badge.svg)](https://www.inspatial.ai)
 [![InSpatial Kit](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/kit-badge.svg)](https://www.inspatial.dev)
 [![InSpatial Cloud](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/cloud-badge.svg)](https://www.inspatial.cloud)
-[![InSpatial App](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/app-badge.svg)](https://www.inspatial.io)
+[![InSpatial App](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/app-badge.svg)](https://www.inspatial.app)
 [![InSpatial Store](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/store-badge.svg)](https://www.inspatial.store)
 [![InSpatial Store](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/run-badge.svg)](https://www.inspatial.run)
 
@@ -63,7 +63,7 @@ _Reality is your canvas_
         </a>
       </td>
       <td align="center">AI toolkit for building multi-agent systems</td>
-      <td align="center"><a href="https://www.inspatial.dev">inspatial.ai</a></td>
+      <td align="center"><a href="https://www.inspatial.ai">inspatial.ai</a></td>
     </tr>
     <tr>
       <td align="center">
@@ -85,12 +85,12 @@ _Reality is your canvas_
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.inspatial.io">
+        <a href="https://www.inspatial.app">
           <img src="https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/app-badge.svg" alt="InSpatial App">
         </a>
       </td>
       <td align="center">Build and manage your InSpatial apps</td>
-      <td align="center"><a href="https://www.inspatial.io">inspatial.app</a></td>
+      <td align="center"><a href="https://www.inspatial.app">inspatial.app</a></td>
     </tr>
     <tr>
       <td align="center">
@@ -103,8 +103,8 @@ _Reality is your canvas_
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.inspatial.store">
-          <img src="https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/run-badge.svg" alt="InSpatial Store">
+        <a href="https://www.inspatial.run">
+          <img src="https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/run-badge.svg" alt="InSpatial Run">
         </a>
       </td>
       <td align="center">CLI for building with InSpatial</td>
