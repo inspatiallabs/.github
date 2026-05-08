@@ -26,7 +26,7 @@
 _Reality is your canvas_
 
   <h3 align="center">
-    InSpatial is a universal development environment (UDE) <br> for building cross-platform and spatial (AR/MR/VR) applications
+    InSpatial is a universal development environment (UDE) <br> for building multi-platform and multi-agentic software. 
   </h3>
 
 [![InSpatial Kit](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/ai-badge.svg)](https://www.inspatial.ai)
