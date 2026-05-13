@@ -115,3 +115,34 @@ _Reality is your canvas_
 
 </p>
 
+---
+
+### macOS / Linux
+
+```bash
+curl -fsSL inspati.ai | sh
+```
+
+<details>
+<summary>or</summary>
+
+```bash
+curl -fsSL inspatial.sh | sh
+```
+
+</details>
+
+### Windows (PowerShell)
+
+```bash
+irm inspati.ai/install.ps1 | iex
+```
+
+<details>
+<summary>or</summary>
+
+```bash
+irm inspatial.sh/install.ps1 | iex
+```
+
+
