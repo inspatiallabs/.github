@@ -71,7 +71,7 @@ _Reality is your canvas_
           <img src="https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/kit-badge.svg" alt="InSpatial Kit">
         </a>
       </td>
-      <td align="center">Universal Libraries & Frameworks</td>
+      <td align="center">Universal Development Environment (UDE) Client</td>
       <td align="center"><a href="https://www.inspatial.dev">inspatial.dev</a></td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ _Reality is your canvas_
           <img src="https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/cloud-badge.svg" alt="InSpatial Cloud">
         </a>
       </td>
-      <td align="center">Backend APIs and SDKs</td>
+      <td align="center">Universal Development Environment (UDE) Server</td>
       <td align="center"><a href="https://www.inspatial.cloud">inspatial.cloud</a></td>
     </tr>
     <tr>
