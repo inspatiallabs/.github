@@ -26,7 +26,7 @@
 _Reality is your canvas_
 
   <h3 align="center">
-    InSpatial is a Universal Engine (UE) <br> - a new kind of agent harness for building intelligent, multi-platform software.
+    InSpatial is a Universal Engine (UE) <br> a new kind of agent harness for building intelligent, multi-platform software.
   </h3>
 
 [![InSpatial Kit](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/ai-badge.svg)](https://www.inspatial.ai)
