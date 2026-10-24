@@ -117,6 +117,14 @@ _Reality is your canvas_
 
 ---
 
+## Agent Harness (Muse, Grokbot, Cursor, Claude, ChatGPT etc...)
+
+```bash
+inspatial start https://github.com/inspatiallabs/inspatial-start
+```
+
+---
+
 ### macOS / Linux
 
 ```bash
@@ -144,5 +152,6 @@ irm inspati.ai/install.ps1 | iex
 ```bash
 irm inspatial.sh/install.ps1 | iex
 ```
+
 
 
