@@ -116,7 +116,7 @@ _Reality is your canvas_
 </p>
 
 ---
-
+<!-- 
 ## Agent Harness (Muse, Grokbot, Cursor, Claude, ChatGPT etc...)
 
 ```bash
@@ -154,4 +154,4 @@ irm inspatial.sh/install.ps1 | iex
 ```
 
 
-
+ -->
